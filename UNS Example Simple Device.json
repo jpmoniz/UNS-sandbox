@@ -1,0 +1,735 @@
+{
+  "name": "MyEnterprise",
+  "tagType": "Folder",
+  "tags": [
+    {
+      "name": "MySite",
+      "tagType": "Folder",
+      "tags": [
+        {
+          "name": "MyArea",
+          "tagType": "Folder",
+          "tags": [
+            {
+              "name": "MyLine",
+              "tagType": "Folder",
+              "tags": [
+                {
+                  "name": "MyCell",
+                  "tagType": "Folder",
+                  "tags": [
+                    {
+                      "name": "MyStation",
+                      "tagType": "Folder",
+                      "tags": [
+                        {
+                          "name": "MyDevice",
+                          "tagType": "Folder",
+                          "tags": [
+                            {
+                              "name": "Vacuum Pump",
+                              "typeId": "Rotary Vane Pump",
+                              "tagType": "UdtInstance",
+                              "tags": [
+                                {
+                                  "name": "Process Variables",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Vibration Velocity Z Axis RMS",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Motor Voltage",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Motor Speed",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Vibration Velocity X Axis RMS",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Vibration Velocity Y Axis RMS",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Temperature",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Conductivity",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Motor Current",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Level",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Vacuum",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Vacuum admit Valve State",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Humidity",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Pump Housing Contact Temperature",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Motor State",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Permittivity",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Motor Nameplate",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Frame Desgingnation",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Insulation Class",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Manufacturer",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Number of Phases",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Manufacture Type",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Catelog Number",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Frequency",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Voltage",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Manufacturer Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Horsepower",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Speed at Rated Load",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Model Number",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Code for Locked Rotor Current",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "KW",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Service Factor",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Nema Nominal Efficiency",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Max Ambient Temperature",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Overtemp Protection",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Duty",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Rated Load Current",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Nameplate",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Manufacture Web Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Manufacturer",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Serial Number",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Date of Manufacture",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Introduction Date",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Model Number ",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Specifications",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Oil Capacity Max",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Capacity Min",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operating Range High",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Displacement High",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operating Range Low",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Ultimate Vacuum High",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Ultimate Vacuum High with Ballast",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Max water vapour pumping rate High",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Max Inlet Pressure",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Displacement Low",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Ultimate Vacuum Low with Ballast",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Speed Low",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Ultimate Vacuum Low",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Max water vapour pumping rate Low",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Oil Type",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Pump Performance Curve",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Speed High",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Pump Performance Curve Link",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Documentation",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Single Line Diagram Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Electrical Schematic",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Lubrication Map",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Lubrication Map Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Mechanical Schematic Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Location Schematic Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "PID Schematic",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "PID Schematic Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Mechanical Schematic",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operation Setpoints Document Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Components List Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Certificates",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operation Setpoints Document",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Electrical Schematic Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Location Schematic",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operations Manual",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Single Line Diagram",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Operations Manual Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Layout Schematic Link",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Components List",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Layout Schematic",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Certificates Link",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Faults",
+                                  "tagType": "UdtInstance",
+                                  "tags": [
+                                    {
+                                      "name": "Motor Overload",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Pump Down Time Too Long",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Ultimate Vacuum Not Reached",
+                                      "tagType": "AtomicTag"
+                                    },
+                                    {
+                                      "name": "Over Temerature",
+                                      "tagType": "AtomicTag"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "SAP",
+                                  "tagType": "Folder",
+                                  "tags": [
+                                    {
+                                      "name": "PM",
+                                      "tagType": "Folder",
+                                      "tags": [
+                                        {
+                                          "name": "General Data",
+                                          "tagType": "UdtInstance",
+                                          "tags": [
+                                            {
+                                              "name": "Downtime",
+                                              "tagType": "AtomicTag"
+                                            },
+                                            {
+                                              "name": "MTBF",
+                                              "tagType": "AtomicTag"
+                                            },
+                                            {
+                                              "name": "MTTR",
+                                              "tagType": "AtomicTag"
+                                            },
+                                            {
+                                              "name": "Failure Rate",
+                                              "tagType": "AtomicTag"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Sensors",
+                                  "tagType": "Folder",
+                                  "tags": [
+                                    {
+                                      "name": "Vacuum Admit Valve Position",
+                                      "tagType": "UdtInstance",
+                                      "tags": [
+                                        {
+                                          "name": "Product Text",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Detailed Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Aplication Specific Tag",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "ProductName",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "DeviceId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Hardware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Vendor Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Firmware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "VendorId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Serial",
+                                          "tagType": "AtomicTag"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Oil Level",
+                                      "tagType": "UdtInstance",
+                                      "tags": [
+                                        {
+                                          "name": "Firmware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "ProductName",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "DeviceId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Vendor Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Aplication Specific Tag",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Hardware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Detailed Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Text",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Serial",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "VendorId",
+                                          "tagType": "AtomicTag"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Oil Condition Monitor",
+                                      "tagType": "UdtInstance",
+                                      "tags": [
+                                        {
+                                          "name": "Product Text",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Firmware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Serial",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Hardware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "ProductName",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Aplication Specific Tag",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Detailed Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "DeviceId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Vendor Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "VendorId",
+                                          "tagType": "AtomicTag"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Vacuum",
+                                      "tagType": "UdtInstance",
+                                      "tags": [
+                                        {
+                                          "name": "DeviceId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Vendor Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "VendorId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Serial",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Firmware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Text",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Detailed Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Hardware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "ProductName",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Aplication Specific Tag",
+                                          "tagType": "AtomicTag"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "3-Axis Vibration",
+                                      "tagType": "UdtInstance",
+                                      "tags": [
+                                        {
+                                          "name": "Product Name",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "ProductName",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Hardware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "VendorId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Detailed Device Status",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Firmware Version",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Product Text",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Serial",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Aplication Specific Tag",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "DeviceId",
+                                          "tagType": "AtomicTag"
+                                        },
+                                        {
+                                          "name": "Vendor Name",
+                                          "tagType": "AtomicTag"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
